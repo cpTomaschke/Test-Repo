@@ -1,3 +1,2 @@
-This is the second file added
-No changes have been make to it
+This is the conflict causing file, but resolved.
 
